@@ -1,0 +1,11 @@
+{
+  "name": "mern-exercise-tracker",
+  "version": "1.0.0",
+  "description": "An exercise tracker built using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barry M Wire",
+  "license": "MIT"
+}
